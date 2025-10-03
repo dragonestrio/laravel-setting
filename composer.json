@@ -1,6 +1,6 @@
 {
-    "name": "akaunting/laravel-setting",
-    "description": "Persistent settings package for Laravel",
+    "name": "dragonestrio/laravel-setting",
+    "description": "Persistent settings package for Laravel by Akaunting",
     "keywords": [
         "laravel",
         "persistent",
@@ -13,6 +13,12 @@
             "name": "Denis Duliçi",
             "email": "info@akaunting.com",
             "homepage": "https://akaunting.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Satrio Nugroho",
+            "email": "satrion93@gmail.com",
+            "homepage": "https://satrio.my-domain.my.id",
             "role": "Developer"
         }
     ],
