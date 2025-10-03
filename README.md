@@ -1,4 +1,4 @@
-# Persistent settings package for Laravel
+# Persistent settings package for Laravel by Akaunting
 
 [![Downloads](https://poser.pugx.org/akaunting/laravel-setting/d/total.svg)](https://github.com/akaunting/laravel-setting)
 [![StyleCI](https://styleci.io/repos/101231817/shield?style=flat&branch=master)](https://styleci.io/repos/101231817)
@@ -15,6 +15,7 @@ This package allows you to save settings in a more persistent way. You can use t
 * Auto save
 * Extra columns
 * Cache support
+* Casting suppport
 
 ## Getting Started
 
@@ -23,7 +24,7 @@ This package allows you to save settings in a more persistent way. You can use t
 Run the following command:
 
 ```bash
-composer require akaunting/laravel-setting
+composer require dragonestrio/laravel-setting
 ```
 
 ### 2. Register (for Laravel < 5.5)
@@ -179,6 +180,7 @@ If you discover any security related issues, please email security@akaunting.com
 ## Credits
 
 - [Denis Duliçi](https://github.com/denisdulici)
+- [Satrio Nugroho](https://github.com/dragonestrio)
 - [All Contributors](../../contributors)
 
 ## License
