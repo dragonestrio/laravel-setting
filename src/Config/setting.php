@@ -129,4 +129,21 @@ return [
 
    ],
 
+    /*
+    |--------------------------------------------------------------------------
+    | Casting
+    |--------------------------------------------------------------------------
+    |
+    | Define the keys which should be cast automatically.
+    | The default value will be casted as string.
+    |
+    | Sample:
+    |   'site' => [
+    |       "navbar_navigations" => "array"
+    |   ]
+    |
+    */
+    'casting_keys' => [
+    ],
+
 ];
